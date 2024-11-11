@@ -1,3 +1,8 @@
+CANIS Preliminary Design Review - Embodiment Clause
+
+The works contained in this repository are protected by copyright, and until 13 October 2024, 11:59 PM CEST, all rights are reserved by the creator(s). During this period, no modification, reproduction, redistribution, or use of this work is permitted without the prior written consent of the original creator(s). Following the expiration of this period, the work will automatically transition to a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0), and will be subject to the terms and conditions detailed below.
+
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
